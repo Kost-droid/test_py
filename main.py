@@ -1,1 +1,1 @@
-print ("Hi main")
+print ("Hi test")
